@@ -1,3 +1,5 @@
+# Mirai project
+เป็นเว็บไซต์สำหรับตรวจสอบสภาพอากาศ โดยใช้งาน API จาก [https://api.openweathermap.org](https://api.openweathermap.org) ในการจัดทำครั้งนี้ใช้เพื่อเรียนรู้การ Cache ข้อมูลจาก API เพื่อประหยัดจำนวนการเรียกใช้งาน API โดย API จาก [https://api.openweathermap.org](https://api.openweathermap.org) มีโควตาให้ 1000 ครั้งต่อหนึ่งเดือน
 # วิธีติดตั้งและใช้งาน Mirai project
 ```cmd
 git clone https://github.com/NatchaLatte/mirai-project.git
