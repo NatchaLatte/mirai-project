@@ -10,7 +10,7 @@ cd mirai-project
 ```cmd
 npm install -g pnpm
 ```
-### สร้างไฟล์ไฟล์ `server/src/.env`
+### สร้างไฟล์ `server/src/.env`
 ```.env
 OPEN_WEATHER_API_URL=https://api.openweathermap.org
 APP_ID_API_KEY={API key}
@@ -20,7 +20,7 @@ APP_ID_API_KEY={API key}
 pnpm install
 pnpm dev
 ```
-### สร้างไฟล์ไฟล์ `client/.env.local`
+### สร้างไฟล์ `client/.env.local`
 ```.env
 VITE_API_API_URL={SERVER_HOST:SERVER_PORT}
 ```
